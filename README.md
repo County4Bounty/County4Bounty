@@ -3,6 +3,7 @@
 ## 💫 About Me
 Hi there! 👋 I'm **County4Bounty**.
 - 🔭 Working on open-source projects and continuous improvement.
+- 🌱 Currently optimizing my repositories and ensuring clean commit histories.
 - 💬 Ask me about software development, tools, and tech stacks.
 - ⚡ Fun fact: Always hunting for bugs, features, and bounties!
 
